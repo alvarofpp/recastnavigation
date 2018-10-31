@@ -18,6 +18,7 @@ RecastDemo/Build
 
 # Ignore meshes
 RecastDemo/Bin/Meshes/*
+!RecastDemo/Bin/Meshes/rcr01.obj
 
 ## Logs and databases #
 *.log
